@@ -20,8 +20,7 @@ figcaption {
   color: #777;
   text-align:right;
 }
-/*
-font-family: 'Clicker Script', cursive;*/
+
 
 .milk-text{
   font: bold 2.6em 'Elsie Swash Caps', cursive;
@@ -31,7 +30,9 @@ font-family: 'Clicker Script', cursive;*/
 
 #logo {
   background-color: aqua;
+}
+
+#logo h1{
   font:;
   color:;
-
 }
