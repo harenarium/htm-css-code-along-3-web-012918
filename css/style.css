@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps:400,900');
+/*@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900');*/
+
 /*This
 is a comment! */
 
@@ -13,7 +16,10 @@ p {
 }
 
 figcaption {
-  font: normal 0.75em/1.5em Georgia, "Times New Roman", serif;
+  font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
   color: #777;
   text-align:right;
 }
+
+font-family: 'Elsie Swash Caps', cursive;
+font-family: 'Clicker Script', cursive;
