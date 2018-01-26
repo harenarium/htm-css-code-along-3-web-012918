@@ -22,3 +22,9 @@ figcaption {
 }
 /*
 font-family: 'Clicker Script', cursive;*/
+
+.milk-text{
+  font: bold 2.6 'Elsie Swash Caps', cursive;
+  color: #fff;
+  text-shadow: 0 2px 3px #000;
+}
